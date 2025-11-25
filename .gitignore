@@ -1,0 +1,15 @@
+# AI coding assistant configuration files
+.bob/
+.claude/
+.cursor/
+.continue/
+.gemini/
+.codex/
+.opencode/
+
+*.local.md
+*.local.toml
+*.local.json
+
+# Archive folder
+.archive/
